@@ -876,9 +876,9 @@ print(total/piece)
 ```
 total=0
 while True:
-  number = float(input("enter a number: "))
-  if number ==0:
+  num = float(input("enter a number: "))
+  if numr ==0:
     break
-  total+=number
+  total+=num
 print("The sum of the numbers: ",total)
 ```
